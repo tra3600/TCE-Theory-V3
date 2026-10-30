@@ -37,3 +37,6 @@ Defensive publication via Zenodo for anteriority. For patent, file INPI envelopp
 
 ## License
 CC BY 4.0
+
+V3 initial - INPI e-Soleau 30 Oct 2026 5 ans - psi exact field Gamma_TCE=exp(-psi^2/psi0^2) - ISC-TCE-07 42m 18.4m bubble psi=9.81 NbTi 11.4T <10mK - Zenodo V1 23377427 / V3 23775006 - Gregory Lombardo © 2026 TCE - Brevet en cours
+
