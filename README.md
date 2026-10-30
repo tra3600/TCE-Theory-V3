@@ -31,6 +31,7 @@ dt_TCE = T_thermo / E_L * dS_vN
 ## Prototype
 ISC-TCE-07 : 42m, 18.4m chrono-depletive bubble, ψ=9.81, NbTi 11.4T <10mK, 3.2GHz SC cavity Q=1.2e9
 
+
 ## IP
 Defensive publication via Zenodo for anteriority. For patent, file INPI enveloppe Soleau BEFORE public Zenodo publish for new claims (prototype).
 
